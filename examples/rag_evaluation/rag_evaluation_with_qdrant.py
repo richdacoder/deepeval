@@ -8,7 +8,7 @@
 # Then, run the following command:
 # python examples/rag_evaluation/rag_evaluation_with_qdrant.py
 
-# You can then find results of the evaluation in the Confident AI dashboard
+# You can then find results of the evaluation in the Confident AI dashboard 
 
 from tqdm.notebook import tqdm
 from datasets import load_dataset
